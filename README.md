@@ -17,19 +17,17 @@ The object of the game is to turn over pairs of matching cards.
 - Xcode
 - MVVM Architecture
 
-## Technologies Used
-- SwiftUI
-- Core Data
-- Haptics 
-- Core Animation
-- Putting Views together using VStack, HStack, etc.
+## What I learned
+- MVVM
+- Intent functions
+- init functions
+- Type Variables (i.e. static)
+- Access Control (i.e. private)
+- Closures
 - Modifying Views (using .font(), etc.)
 - Using @State
 - Using a Range (e.g. 0..<emojiCount) as a subscript to an Array
 - The SF Symbols application
-- Putting system images into your UI using Image(systemName:)
-- Looking things up in the documentation (Array and possibly Font)
-- Int.random(in:) 
 
 ## Demo
-![Dice Roll Demo](Demo/demo.gif)
+![Memorize Demo](Demo/demo.gif)
