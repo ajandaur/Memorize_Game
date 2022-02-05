@@ -23,8 +23,10 @@ The object of the game is to turn over pairs of matching cards.
 - init functions
 - Type Variables (i.e. static)
 - Access Control (i.e. private)
+- Generics
+- Extensions
 - Closures
-- Modifying Views (using .font(), etc.)
+- View Modifers
 - Using @State
 - Using a Range (e.g. 0..<emojiCount) as a subscript to an Array
 - The SF Symbols application
