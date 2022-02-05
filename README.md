@@ -15,6 +15,7 @@ The object of the game is to turn over pairs of matching cards.
 ## Technologies Used
 - SwiftUI
 - Xcode
+- MVVM Architecture
 
 ## Technologies Used
 - SwiftUI
@@ -23,13 +24,12 @@ The object of the game is to turn over pairs of matching cards.
 - Core Animation
 - Putting Views together using VStack, HStack, etc.
 - Modifying Views (using .font(), etc.)
-- Using @State (we’ll learn much more about this construct later, by the way)
+- Using @State
 - Using a Range (e.g. 0..<emojiCount) as a subscript to an Array
 - The SF Symbols application
 - Putting system images into your UI using Image(systemName:)
 - Looking things up in the documentation (Array and possibly Font)
-- Int.random(in:) (Extra Credit)
-- Running your application in different simulators
+- Int.random(in:) 
 
 ## Demo
 ![Dice Roll Demo](Demo/demo.gif)
