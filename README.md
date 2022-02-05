@@ -32,4 +32,4 @@ The object of the game is to turn over pairs of matching cards.
 - Running your application in different simulators
 
 ## Demo
-![Dice Roll Demo](DiceRoll/demo/demo.gif)
+![Dice Roll Demo](Demo/demo.gif)
